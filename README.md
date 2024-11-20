@@ -1,5 +1,5 @@
 - Hi 👋 I’m Mohit.
-- 💻 Programer.
+- 💻 Devloper.
 - 🧠 I’m currently learning C/HTML/CSS/AI
 - 📫 You can contact me at mohitjaryalthakur@gmail.com
 - ⚡ Sometimes there is no need to prove that you are right.
