@@ -1,6 +1,6 @@
 # Hi, I'm Mohit Jaryal 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on **C** and **HTML**. I love building projects that challenge me and help me learn new things. Here you'll find various projects, from small utilities to larger applications, all built with clean code and a lot of enthusiasm. 
+Welcome to my GitHub profile! I'm a passionate software developer . I love building projects that challenge me and help me learn new things. Here you'll find various projects, from small utilities to larger applications, all built with clean code and a lot of enthusiasm. 
 
 ## 🔧 Tech Stack
 
@@ -10,32 +10,27 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 - **Tools & Technologies**:
   - **Version Control**: Git, GitHub
-  - **Text Editors**: Visual Studio Code, Sublime Text
+  - **Text Editors**: Visual Studio Code
   - **Compilers**: GCC, Clang
-  
-- **Other**:
-  - Linux (Terminal-based development)
-  - Web Development (HTML, CSS basics)
 
 ## 🚀 My Projects
 
 Here are a few of the projects I've worked on:
 
 - **Tic Tac Toe Game** - A simple and fun Tic Tac Toe game built in **C** to explore logic and algorithms.
+- **Guess The Number Game** - A simple game for fun built in **C** 
 - **Personal Website** - Built with **HTML** to showcase my work and projects.
 
 You can explore these projects in detail in the repositories section!
 
 ## 📚 Currently Learning
 
-- Advanced C Programming
-- Web Development with JavaScript
-- Linux System Programming
+- C++
+- Web Development with JavaScriptL
 
 ## 💬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mohit-jaryal/)  
-- [Twitter](https://twitter.com/mohit_jaryal)  
+- [LinkedIn]([https://www.linkedin.com/in/mohit-jaryal/](https://www.linkedin.com/in/mohit-thakur-9b317733b/?trk=opento_sprofile_topcard))    
 
 ## 📈 GitHub Stats
 
