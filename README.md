@@ -1,40 +1,51 @@
 # Hi, I'm Mohit Jaryal 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer . I love building projects that challenge me and help me learn new things. Here you'll find various projects, from small utilities to larger applications, all built with clean code and a lot of enthusiasm. 
+Welcome to my GitHub! I’m an aspiring **C** and **HTML** developer, currently diving into **C++** to expand my coding expertise. I enjoy building projects that challenge my problem-solving skills and constantly push me to learn more. 
 
-## 🔧 Tech Stack
+## ⚡️ About Me:
 
-- **Languages**:
-  - C
-  - HTML
+- 👨‍💻 I’m a passionate **C Developer** & **Web Developer**.
+- 🌱 Currently learning **C++**, and exploring **Web Development**.
+- 💬 I’m open to collaborating on open-source projects and coding challenges.
+- 🎯 Always working towards improving my skills and making an impact through programming.
 
-- **Tools & Technologies**:
-  - **Version Control**: Git, GitHub
-  - **Text Editors**: Visual Studio Code
-  - **Compilers**: GCC, Clang
+## 🛠️ Tech Stack:
 
-## 🚀 My Projects
+**Languages & Tools:**
+- **Languages**: C, HTML, JavaScript (Beginner)
+- **Learning**: C++, Web Development
+- **Tools**: Git, Visual Studio Code, GitHub.
 
-Here are a few of the projects I've worked on:
+## 🌱 Currently Learning:
+- **C++** (Intermediate)
+- **Web Development** (React, Node.js)
+- **Problem Solving** (LeetCode, Codeforces)
 
-- **Tic Tac Toe Game** - A simple and fun Tic Tac Toe game built in **C** to explore logic and algorithms.
-- **Guess The Number Game** - A simple game for fun built in **C** 
-- **Personal Website** - Built with **HTML** to showcase my work and projects.
+## 📈 GitHub Stats:
 
-You can explore these projects in detail in the repositories section!
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 📚 Currently Learning
+## 💻 Featured Projects:
 
-- C++
-- Web Development with JavaScriptL
+### **Tic Tac Toe Game**:
+- A **C**-based **Tic Tac Toe** game with a basic **AI opponent** and a user-friendly interface.
+- **Technologies**: C, Terminal-based, AI (Simple Logic)
 
-## 💬 Let's Connect
+---
 
-- [LinkedIn]([https://www.linkedin.com/in/mohit-jaryal/](https://www.linkedin.com/in/mohit-thakur-9b317733b/?trk=opento_sprofile_topcard))    
+## 🌐 Connect with Me:
 
-## 📈 GitHub Stats
+- [LinkedIn](https://www.linkedin.com/in/mohit-thakur-9b317733b/?trk=opento_sprofile_topcard)
+- 📧 **Email**: (mohitjaryalthakur@gmail.com)
 
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohit-jaryal&show_icons=true&theme=radical)
+---
 
-Thank you for visiting my profile! Feel free to explore my repositories, open issues, or contribute. 😊
+## 🔭 I'm open to:
 
+- Collaborating on exciting **C** and **Web Development** projects.
+- Exploring new concepts in **C++**.
+- Contributing to **open-source projects** and **coding challenges**.
+
+---
+
+Thank you for visiting my GitHub profile! 😊
