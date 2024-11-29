@@ -37,6 +37,7 @@ Welcome to my GitHub! I’m an aspiring **C** and **HTML** developer, currently 
 
 - [LinkedIn](https://www.linkedin.com/in/mohit-thakur-9b317733b/?trk=opento_sprofile_topcard)
 - 📧 **Email**: (mohitjaryalthakur@gmail.com)
+- [LeetCode Profile](https://leetcode.com/u/mohitthakur16/)
 
 ---
 
