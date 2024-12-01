@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m an aspiring **C** and **HTML** developer, currently 
 
 ## ⚡️ About Me:
 
-- 👨‍💻 I’m a passionate **C Developer** & **Web Developer**.
+- 👨‍💻 I’m a passionate **Developer**.
 - 🌱 Currently learning **C++**, and exploring **Web Development**.
 - 💬 I’m open to collaborating on open-source projects and coding challenges.
 - 🎯 Always working towards improving my skills and making an impact through programming.
