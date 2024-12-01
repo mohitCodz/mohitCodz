@@ -30,7 +30,12 @@ Welcome to my GitHub! I’m an aspiring **C** and **HTML** developer, currently 
 ### **Tic Tac Toe Game**:
 - A **C**-based **Tic Tac Toe** game with a basic **AI opponent** and a user-friendly interface.
 - **Technologies**: C, Terminal-based, AI (Simple Logic)
-
+### **Guess The Number Game**:
+- **C**-based **Guess The Number Game**
+- **Technologies**: C,Terminal-based game,AI.
+#### **Grading System**
+- A system which is used to give **Grades** to students according to their marks.
+- **Technologies**: C
 ---
 
 ## 🌐 Connect with Me:
