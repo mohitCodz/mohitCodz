@@ -18,7 +18,7 @@ Welcome to my GitHub! I’m an aspiring **C** **HTML** and **CSS** developer, cu
 
 ## 🌱 Currently Learning:
 - **C++** (Beginner)
-- **Web Development** (React, Node.js)
+- **Web Development** (HTML,CSS)
 - **Problem Solving** (LeetCode,CodeChef)
 
 ## 📈 GitHub Stats:
