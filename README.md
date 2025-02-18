@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m an aspiring **C** **HTML** and **CSS** developer, cu
 - **Tools**: Git, Visual Studio Code, GitHub.
 
 ## 🌱 Currently Learning:
-- **C++** (Intermediate)
+- **C++** (Beginner)
 - **Web Development** (React, Node.js)
 - **Problem Solving** (LeetCode,CodeChef)
 
