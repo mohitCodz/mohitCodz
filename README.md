@@ -1,6 +1,6 @@
 # Hi, I'm Mohit 👋
 
-Welcome to my GitHub! I’m an aspiring **C** and **HTML** **CSS** developer, currently diving into **C++** to expand my coding expertise. I enjoy building projects that challenge my problem-solving skills and constantly push me to learn more. 
+Welcome to my GitHub! I’m an aspiring **C** **HTML** and **CSS** developer, currently diving into **C++** to expand my coding expertise. I enjoy building projects that challenge my problem-solving skills and constantly push me to learn more. 
 
 ## ⚡️ About Me:
 
@@ -12,14 +12,14 @@ Welcome to my GitHub! I’m an aspiring **C** and **HTML** **CSS** developer, cu
 ## 🛠️ Tech Stack:
 
 **Languages & Tools:**
-- **Languages**: C, HTML, JavaScript (Beginner)
+- **Languages**: C,HTML,CSS,C++.
 - **Learning**: C++, Web Development
 - **Tools**: Git, Visual Studio Code, GitHub.
 
 ## 🌱 Currently Learning:
 - **C++** (Intermediate)
 - **Web Development** (React, Node.js)
-- **Problem Solving** (LeetCode, Codeforces)
+- **Problem Solving** (LeetCode,CodeChef)
 
 ## 📈 GitHub Stats:
 
