@@ -1,6 +1,6 @@
 # Hi, I'm Mohit 👋
 
-Welcome to my GitHub! I’m an aspiring **C** and **HTML** developer, currently diving into **C++** to expand my coding expertise. I enjoy building projects that challenge my problem-solving skills and constantly push me to learn more. 
+Welcome to my GitHub! I’m an aspiring **C** and **HTML** **CSS** developer, currently diving into **C++** to expand my coding expertise. I enjoy building projects that challenge my problem-solving skills and constantly push me to learn more. 
 
 ## ⚡️ About Me:
 
