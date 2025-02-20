@@ -38,6 +38,8 @@ Welcome to my GitHub! I’m an aspiring developer, currently diving into **C++**
 - **Technologies**: C
 - ### **Guess The Number Game**:
 - **C++**-based **Guess The Number Game**
+- ### **Simple Calculator**:
+- A simple calculator which can solve basic problems
 ---
 
 ## 🌐 Connect with Me:
