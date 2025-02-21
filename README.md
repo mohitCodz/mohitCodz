@@ -39,7 +39,7 @@ Welcome to my GitHub! I’m an aspiring developer, currently diving into **C++**
 - ### **Guess The Number Game**:
 - **C++**-based **Guess The Number Game**
 - ### **Simple Calculator**:
-- A simple calculator which can solve basic problems
+- A simple calculator which can solve basic problems very easily.
 ---
 
 ## 🌐 Connect with Me:
