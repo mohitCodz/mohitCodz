@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 ## ⚡️ About Me:
 
 - 👨‍💻 I’m a passionate **Developer**.
-- 🌱 Currently exploring **Web Development**.
+- 📖 Currently exploring **Web Development**.
 - 💬 I’m open to collaborating on open-source projects and coding challenges.
 - 🎯 Always working towards improving my skills and making an impact through programming.
 
