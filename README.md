@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 ## 🔭 I'm open to:
 
 - Collaborating on exciting **C** and **Web Development** projects.
-- Exploring new concepts in **C++**,C.
+- Exploring new concepts in **C++**.
 - Contributing to **open-source projects** and **coding challenges**.
 
 ---
