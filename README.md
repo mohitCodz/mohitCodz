@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 ## 🛠️ Tech Stack:
 
 **Languages & Tools:**
-- **Languages**: C,HTML,CSS.
+- **Languages**: C,C++,HTML,CSS.
 - **Learning**: C++, Web Development
 - **Tools**: Git, Visual Studio Code, GitHub.
 
