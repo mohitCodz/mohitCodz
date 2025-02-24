@@ -44,7 +44,6 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 
 ## 🌐 Connect with Me:
 
-- [LinkedIn](https://www.linkedin.com/in/mohit-thakur-9b317733b/?trk=opento_sprofile_topcard)
 - reach.mohitthakur@gmail.com
 - [LeetCode Profile](https://leetcode.com/u/mohitthakur16/)
 
