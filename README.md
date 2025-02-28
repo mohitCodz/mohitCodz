@@ -2,7 +2,7 @@
 
 
 
-  -Welcome to my GitHub profile! I’m an aspiring developer, currently diving into **C++** to expand my coding expertise. I enjoy building projects that challenge my problem-solving skills and constantly push me to learn more.
+  - Welcome to my GitHub profile! 
 
 ## ⚡️ About Me:
 
@@ -10,6 +10,7 @@
 - 📖 Currently exploring **Web Development**.
 - 💬 I’m open to collaborating on open-source projects and coding challenges.
 - 🎯 Always working towards improving my skills and making an impact through programming.
+- 🧠 I enjoy building projects that challenge my problem-solving skills and constantly push me to learn more.
 
 ---
 
