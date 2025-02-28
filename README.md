@@ -21,10 +21,6 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 - **Web Development** (HTML,CSS)
 - **Problem Solving** (LeetCode,CodeChef)
 
-## 📈 GitHub Stats:
-
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 💻 Featured Projects:
 
 ### **Tic Tac Toe Game**:
