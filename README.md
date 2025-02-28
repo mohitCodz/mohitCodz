@@ -76,5 +76,6 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 - Contributing to **open-source projects** and **coding challenges**.
 
 ---
+## 🎉 Thank You for Visiting!
+I appreciate you stopping by! Feel free to connect with me on my socials and check out my projects. Happy coding! 🚀
 
-Thank you for visiting my GitHub profile! 😊
