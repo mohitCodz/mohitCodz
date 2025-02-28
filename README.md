@@ -1,10 +1,5 @@
 # 🚀 Hi, I'm Mohit! 👋
 
-- Passionate **C/C++ Developer** and **Web Enthusiast** who loves solving problems and building awesome projects! 💻
-
-- 🔥 Always eager to explore new technologies and contribute to open-source.
-- 🎯 Strongly focused on writing clean and efficient code.
-- ⚡ Enthusiastic about competitive programming and coding challenges.
 
 
   -Welcome to my GitHub profile! I’m an aspiring developer, currently diving into **C++** to expand my coding expertise. I enjoy building projects that challenge my problem-solving skills and constantly push me to learn more.
