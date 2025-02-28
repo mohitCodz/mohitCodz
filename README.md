@@ -9,23 +9,14 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 - 💬 I’m open to collaborating on open-source projects and coding challenges.
 - 🎯 Always working towards improving my skills and making an impact through programming.
 
-## 🛠️ Tech Stack:
-
-**Languages & Tools:**
-- **Languages**: C,C++,HTML,CSS.
-- **Learning**: C++, Web Development
-- **Tools**: Git, Visual Studio Code, GitHub.
-
-## 🌱 Currently Learning:
-- **C++** (Beginner)
-- **Web Development** (HTML,CSS)
-- **Problem Solving** (LeetCode,CodeChef)
+---
 
 # 💻 Tech Stack
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
