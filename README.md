@@ -39,21 +39,27 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 
 ---
 
-## 💻 Featured Projects:
+## 🚀 Featured Projects:
 
-### **Tic Tac Toe Game**:
-- A **C**-based **Tic Tac Toe** game with a basic **AI opponent** and a user-friendly interface.
-- **Technologies**: C, Terminal-based, AI (Simple Logic)
-### **Guess The Number Game**:
-- **C**-based **Guess The Number Game**
-- **Technologies**: C,Terminal-based game,AI.
-#### **Grading System**
-- A system which is used to give **Grades** to students according to their marks.
-- **Technologies**: C
-- ### **Guess The Number Game**:
-- **C++**-based **Guess The Number Game**
-- ### **Simple Calculator**:
-- A simple calculator which can solve basic problems fast and very easily.
+### 🎮 **Tic Tac Toe Game**
+🕹️ A **C**-based **Tic Tac Toe** game with a basic **AI opponent** and a user-friendly interface.
+🔧 **Technologies**: C, Terminal-based, AI (Simple Logic)
+
+### 🎯 **Guess The Number Game (C)**
+🔢 **C**-based **Guess The Number Game** that challenges the player to guess the correct number.
+🔧 **Technologies**: C, Terminal-based game, AI.
+
+### 📊 **Grading System**
+🎓 A system that assigns **grades** to students based on their marks.
+🔧 **Technologies**: C
+
+### 🎯 **Guess The Number Game (C++)**
+🔢 **C++**-based **Guess The Number Game** with enhanced logic and interactivity.
+
+### 🧮 **Simple Calculator**
+➕➖ A **fast and easy-to-use calculator** that can solve basic arithmetic problems.
+🔧 **Technologies**: C++, Terminal-based
+
 ---
 
 ## 📫 Connect With Me
