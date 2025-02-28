@@ -56,10 +56,9 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 - A simple calculator which can solve basic problems fast and very easily.
 ---
 
-## 🌐 Connect with Me:
+## 📫 Connect With Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reach.mohitthakur@gmail.com)
 
-- reach.mohitthakur@gmail.com
-- [LeetCode Profile](https://leetcode.com/u/mohitthakur16/)
 
 ---
 
