@@ -70,9 +70,9 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 ---
 ## 🔭 I'm Open To:
 
-🚀 **Collaborating** on exciting **C** and **Web Development** projects.
-📖 **Exploring** new concepts in **C++** to enhance my skills.
-🤝 **Contributing** to **open-source projects** and tackling **coding challenges** to stay sharp!
+- 🚀 **Collaborating** on exciting **C** and **Web Development** projects.
+- 📖 **Exploring** new concepts in **C++** to enhance my skills.
+- 🤝 **Contributing** to **open-source projects** and tackling **coding challenges** to stay sharp!
 
 ---
 ## 🎉 Thank You for Visiting!
