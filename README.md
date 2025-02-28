@@ -58,6 +58,7 @@ Welcome to my GitHub profile! I’m an aspiring developer, currently diving into
 
 ## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reach.mohitthakur@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohitthakur16/)
 
 
 ---
