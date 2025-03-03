@@ -1,8 +1,8 @@
-# 🚀 Hi, I'm Mohit! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## 🚀 Hi, I'm Mohit! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 
-  - Welcome to my GitHub profile! 
+  # Welcome to my GitHub profile! 
 
 ## ⚡️ About Me:
 
