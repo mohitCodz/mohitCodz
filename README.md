@@ -31,14 +31,6 @@
 
 ---
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohitThakurS1604&show_icons=true&theme=radical)
-
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitThakurS1604&layout=compact&theme=radical)
-
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohitThakurS1604&theme=radical)
 
 ---
 
