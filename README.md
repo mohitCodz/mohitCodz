@@ -34,9 +34,7 @@
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohitThakurS1604&show_icons=true&theme=radical)  
 
-## 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohitThkaurS1604&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+---
 
 ## 🎯 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitThakurS1604&layout=compact&theme=radical)  
