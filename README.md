@@ -38,7 +38,7 @@
 
 
 ## 🎉 Thank You for Visiting!
-I appreciate you stopping by! Feel free to connect with me on my socials and check out my projects. Happy coding! 🚀
+Feel free to connect with me ! Happy coding! 🚀
 
 
 ---
