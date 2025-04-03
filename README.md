@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in **Computer Science**
-- 💻 Passionate **Web Developer** (HTML, CSS, C, C++)
+- 💻 Passionate **Web Developer** (HTML, CSS,JavaScript, C, C++)
 - 🚀 Building a **Social Platform**
 - 💡 Exploring **Startups & Entrepreneurship**
 
