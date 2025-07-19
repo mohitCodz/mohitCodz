@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Mohit%20&fontSize=35&fontAlignY=40&desc=|%20Computer%20Science%20Engineer%20|)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Mohit%20&fontSize=35&fontAlignY=40&desc=|Developer|)
 
 ## 🚀 About Me
 
