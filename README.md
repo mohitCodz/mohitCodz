@@ -8,11 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Tech in Computer Science  
-- 💻 Focused on **Web Development**, **C/C++**, and **JavaScript**  
-- 🚀 Currently building a **Social Platform**  
-- 🌱 Learning **Backend (Node.js, MongoDB)**  
-- 🧠 Exploring **Tech Startups & Product Building**
+<p align="center">
+  🎓 B.Tech in Computer Science  
+  <br>💻 Web Dev | C/C++ | JavaScript  
+  <br>🚀 Building a Social Platform  
+  <br>🌱 Learning Node.js & MongoDB  
+  <br>🧠 Exploring Startups & Product Building  
+</p>
 
 ---
 
@@ -31,10 +33,12 @@
 
 ## 🚧 Currently Working On
 
-- 🛠 Building a social platform from scratch  
-- 📚 Sharpening problem-solving on LeetCode  
-- 💬 Learning backend development (Node.js, Express, MongoDB)  
-- ✨ Focusing on creating clean UI + smooth UX
+<p align="center">
+  🛠 Social platform (full stack)  
+  <br>📚 LeetCode Problem Solving  
+  <br>💬 Node.js + Express + MongoDB  
+  <br>✨ Clean UI & Smooth UX  
+</p>
 
 ---
 
@@ -48,9 +52,8 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://x.com/mohitt_thakur04" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" alt="X" height="30" style="background-color: black; padding: 5px; border-radius: 6px;"/>
-</a>
-
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
 </p>
 
 ---
