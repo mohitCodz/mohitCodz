@@ -33,7 +33,7 @@ Currently focused on web development, solving problems, and bringing startup ide
 <p align="center">
   🛠 Social platform (full stack)  
   <br>📚 LeetCode Problem Solving  
-  <br>💬 Node.js + Express + MongoDB  
+  <br>💬 Node.js 
   <br>✨ Clean UI & Smooth UX  
 </p>
 
