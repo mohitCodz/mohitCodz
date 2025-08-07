@@ -30,8 +30,7 @@ Currently focused on web development, solving problems, and bringing startup ide
 
 ## 🚧 Currently Working On
 
-<p align="center">
-  🛠 Social platform (full stack)  
+<p align="center"> 
   <br>📚 LeetCode Problem Solving  
   <br>💬 Node.js 
   <br>✨ Clean UI & Smooth UX  
