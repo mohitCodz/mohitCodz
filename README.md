@@ -1,36 +1,61 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Mohit%20&fontSize=35&fontAlignY=40&desc=|Developer|)
-
-## 🚀 About Me
-
-- 🎓 B.Tech in **Computer Science**
-- 💻 Passionate **Web Developer** (HTML, CSS,JavaScript, C, C++)
-- 🚀 Building a **Social Platform**
-- 💡 Exploring **Startups & Entrepreneurship**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Mohit!&fontSize=40&fontAlignY=40&desc=Developer%20|%20Creator%20|%20Builder)
 
 ---
 
-## 🔥 My Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blueviolet?style=for-the-badge)]()
-
+<p align="center">
+  <b>Turning ideas into code — one project at a time 🚀</b>
+</p>
 
 ---
 
-## 📫 Connect With Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reach.mohitthakur@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohitthakur16/)
+## 💡 About Me
+
+- 🎓 B.Tech in Computer Science  
+- 💻 Web Developer | Coder | Problem Solver  
+- 🔧 Currently building a **Social Platform**  
+- 🌱 Exploring Backend Dev + Startup Culture  
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🎉 Thank You for Visiting!
-Feel free to connect with me ! Happy coding! 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
+---
+
+## ⚡ Currently
+
+- 🚀 Working on: **A next-gen social platform**
+- 📚 Learning: **Node.js**, **MongoDB**, and **APIs**
+- 🧠 Practicing: **DSA** on LeetCode
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:reach.mohitthakur@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/mohitthakur16/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mohitCodz">
+    <img src="https://img.shields.io/badge/X-%40mohitCodz-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
 
 ---
 
