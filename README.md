@@ -48,8 +48,9 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://x.com/mohitt_thakur04" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="32"/>
-  </a>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" alt="X" height="30" style="background-color: black; padding: 5px; border-radius: 6px;"/>
+</a>
+
 </p>
 
 ---
