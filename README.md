@@ -46,9 +46,10 @@
   <a href="https://leetcode.com/u/mohitthakur16/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/mohitt_thakur04">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://x.com/mohitt_thakur04" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="30" />
 </a>
+
 
 </p>
 
