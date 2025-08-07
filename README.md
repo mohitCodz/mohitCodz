@@ -8,10 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-<p align="center">
-  🎓 B.Tech in Computer Science  
-  <br>💻 Web Dev | C/C++ | JavaScript  
-  <br>🧠 Exploring Startups & Product Building  
+<p align="center"> 
+I'm Mohit — a Computer Science student who loves building things with code.  
+Currently focused on web development, solving problems, and bringing startup ideas to life.
 </p>
 
 ---
