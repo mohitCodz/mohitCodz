@@ -11,8 +11,6 @@
 <p align="center">
   🎓 B.Tech in Computer Science  
   <br>💻 Web Dev | C/C++ | JavaScript  
-  <br>🚀 Building a Social Platform  
-  <br>🌱 Learning Node.js & MongoDB  
   <br>🧠 Exploring Startups & Product Building  
 </p>
 
