@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://twitter.com/mohitCodz">
-    <img src="https://img.shields.io/badge/X-%40mohitCodz-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-%40mohitt_thakur04-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
