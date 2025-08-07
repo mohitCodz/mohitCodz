@@ -23,12 +23,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitCodz&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
----
+<p align="center">---
 ---
 
 ## 📫 Connect With Me
