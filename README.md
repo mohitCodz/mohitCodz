@@ -38,7 +38,7 @@ Currently focused on web development, solving problems, and bringing startup ide
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let's Connec
 
 <p align="center">
   <a href="mailto:reach.mohitthakur@gmail.com">
