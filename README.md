@@ -6,7 +6,7 @@
 
 ---
 
-## 🙋‍♂️ About M
+## 🙋‍♂️ About Me
 
 <p align="center"> 
 I'm Mohit — a Computer Science student who loves building things with code.  
