@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Mohit!&fontSize=40&fontAlignY=40&desc=Developer%20|%20Builder%20|%20Creator)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Mohit!&fontSize=40&fontAlignY=40&desc=|Developer%20|%20Builder%20|)
 
 <p align="center">
   <b>💡 Passionate about creating, coding, and building impactful ideas.</b>
